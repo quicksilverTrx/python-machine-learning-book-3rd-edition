@@ -1,3 +1,6 @@
+#Contains My Codes for Enhanced Learning and Understanding. 
+My Codes are marked with suffix "_self"
+
 ## Python Machine Learning (3rd Ed.) Code Repository
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.7-blue.svg)](#)
